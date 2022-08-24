@@ -1,7 +1,7 @@
 
 <h2>Olá! Eu sou o Gustavo Pepinelli</h2>
 
-Atuando como Analista de Infraestrutura e Suporte Jr. na BizApp CRM e cursando Engenharia da Computação na Faculdade de Tecnologia Termomecanica busco adquirir ainda mais experiência nos diversos ambientes de TI, sendo eles, Cloud, Infraestrutura, Desenvolvimento e Suporte.
+Possuo conhecimento avançado em todo o ambiente Power Platform, Dataverse e Dynamics 365 e seus módulos, utilizando javascript, C# e .NET Framework com ênfase na criação de aplicativos empresariais, plug-ins, consoles e fluxos da nuvem, automatizando e integrando funcionalidades.
 
 
  <div align="center><br><br>
